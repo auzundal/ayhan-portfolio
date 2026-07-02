@@ -1,13 +1,13 @@
-Upload all files in this folder to your website root directory.
+Ayhan Uzundal Portfolio v2
 
-Required:
+Upload all files in this folder to your hosting root directory:
 - index.html
 - pp.jpg
 - favicon.ico
 - favicon.png
 - apple-touch-icon.png
 - icon.jpg
-- logo.svg
 - og-image.jpg
 
-If the tab icon does not change immediately, clear browser cache or test in incognito mode.
+Important:
+Keep all files in the same folder. If the tab icon does not update immediately, clear browser cache or test in incognito mode.
